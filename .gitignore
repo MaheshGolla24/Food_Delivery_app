@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Database
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
